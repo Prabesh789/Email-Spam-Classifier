@@ -7,8 +7,8 @@ This project demonstrates a machine learning approach to classifying emails as s
 ## Project Structure
 
 - **`email_spam_classifier.ipynb`**: The main Jupyter Notebook file containing all the steps for loading data, preprocessing, feature extraction, training the machine learning model, and evaluating its performance.
-- **`Data/email_data.csv`**: The dataset used for training and testing the model.
-- **`Img/`**: Contains screenshots showing the model's accuracy on training and test datasets.
+- **`Dataset/email_data.csv`**: The dataset used for training and testing the model.
+- **`Snapshots/`**: Contains screenshots showing the model's accuracy on training and test datasets.
 
 ---
 
