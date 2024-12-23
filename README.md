@@ -113,7 +113,7 @@ As I continue to learn, I aim to explore advanced text classification techniques
 
 1. Clone the repository:
    ```
-   [git clone https://github.com/<your-username>/email-spam-classifier.git](https://github.com/Prabesh789/Email-spam-classifier.git
+   https://github.com/Prabesh789/Email-spam-classifier.git
    ```
    
 ## Contact Information
