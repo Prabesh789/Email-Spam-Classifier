@@ -42,7 +42,7 @@ The following screenshots show the accuracy of the model on the training and tes
 
 The dataset used for this project is included in the repository for easy replication.
 
-- **File**: [`data/mail_data.csv`](data/email_data.csv)
+- **File**: [`data/mail_data.csv`](data/mail_data.csv)
 - **Description**: The dataset contains labeled email data:
   - **Category**: `ham` (not spam) or `spam`.
   - **Message**: The text of the email.
